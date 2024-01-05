@@ -1,3 +1,5 @@
+// the first version - has least functionalities compared to the ones after it
+
 import java.util.Scanner;
 
 public class supermarket_project 
